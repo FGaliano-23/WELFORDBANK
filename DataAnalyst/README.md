@@ -1,1 +1,0 @@
-This is the readme of the Data Analyst team
